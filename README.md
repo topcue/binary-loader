@@ -1,1 +1,3 @@
-`sudo apt-get install -y binutils-dev`
+```
+sudo apt-get install -y binutils-dev
+```
